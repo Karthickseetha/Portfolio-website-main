@@ -49,14 +49,14 @@ export  const projectData=[
         title:"React Ecommerce",
         image:"/assets/ecommerce.png",
         gitUrl:'https://github.com/Karthickseetha/React-Ecommerce-site',
-        previewUrl:'https://celebrated-platypus-6202f0.netlify.app/',
+        previewUrl:'https://storied-crumble-0e1edd.netlify.app/',
     },
     {
         id:8,
         title:"React Quiz app",
         image:"/assets/quiz.png",
         gitUrl:'https://github.com/Karthickseetha/React-Quiz-app',
-        previewUrl:'https://storied-crumble-0e1edd.netlify.app/',
+        previewUrl:'https://enchanting-profiterole-21c1dd.netlify.app/',
     },
 
  ]
