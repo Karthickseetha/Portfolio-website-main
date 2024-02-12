@@ -56,7 +56,7 @@ export  const projectData=[
         title:"React Quiz app",
         image:"/assets/quiz.png",
         gitUrl:'https://github.com/Karthickseetha/React-Quiz-app',
-        previewUrl:'https://enchanting-profiterole-21c1dd.netlify.app/',
+        previewUrl:'https://storied-crumble-0e1edd.netlify.app/',
     },
 
  ]
